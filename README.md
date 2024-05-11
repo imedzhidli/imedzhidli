@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @imedzhidli
-- 👀 I’m interested in programming, sports, cs, YOU
-- 🌱 I’m currently learning C/C++
-- 💞️ No idea
+- 👀 I’m interested in programming, sports.
+- 🌱 Currently learning Golang
 - 📫 How to reach me - @imedzhidli everywhere
 <!---
 imedzhidli/imedzhidli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
